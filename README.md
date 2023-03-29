@@ -3,7 +3,7 @@
 
 A Responsive Landing Page with multiple type animations
 ## Demo
- - soon
+ - [Live link](https://diuand.github.io/ANAF-landing-page/)
 
 
 ## The Latest Revision's Images
